@@ -14,3 +14,7 @@ I am very much interested in Python Programming language \n
 Never Ever Giveup....Good Things always takes time"""
     #st.write(content)
     st.info(content)
+
+content1 = """Below you can find some of the apps.I am Python Developer 
+Feel Free to contanct me any work"""
+st.write(content1)
