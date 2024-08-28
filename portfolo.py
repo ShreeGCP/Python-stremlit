@@ -9,7 +9,7 @@ with col1:
     st.image("images/Shridhara.jpg")
 
 with col2:
-    st.title("Shridhara Devadiga")
+    st.title("Shridhara Devadiga ")
     content = """ This is Shridhara Devadiga.I am a Python Developer. I have 8 years experiance in IT.
 My Birth place is Maravanthe Kundapura Thaluk.
 I am very much interested in Python Programming language \n
